@@ -1,0 +1,14 @@
+[
+    {
+        "language":"en",
+        "labels": {
+            "testLabel": "english"
+        }
+    },
+    {
+        "language": "fr",
+        "labels": {
+            "testLabel": "french"
+        }
+    }
+]
