@@ -2,13 +2,15 @@
     {
         "language":"en",
         "labels": {
-            "testLabel": "english"
+            "language": "english",
+            "label": "I like english"
         }
     },
     {
         "language": "fr",
         "labels": {
-            "testLabel": "french"
+            "language": "Français",
+            "label": "Mais je préfère le français"
         }
     }
 ]

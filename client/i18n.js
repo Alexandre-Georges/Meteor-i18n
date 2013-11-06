@@ -12,7 +12,7 @@ Meteor.startup(function () {
 
 
 Template.hello.testLabel = function () {
-    return i18n('testLabel');
+    return i18n('language');
 };
 
 Template.hello.events(
